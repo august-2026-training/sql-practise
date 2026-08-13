@@ -1,0 +1,113 @@
+-- ============================================================
+-- PART A: GROUP BY PRACTICE
+-- ============================================================
+
+-- Q1. Find the number of employees in each department.
+
+-- Q2. Find the average salary in each department.
+
+-- Q3. Find the highest salary in each department.
+
+-- Q4. Find the total salary paid by each department.
+
+-- Q5. Count the number of orders placed by each customer.
+
+-- Q6. Find the total order amount for each customer.
+
+-- Q7. Find the average order amount for each customer.
+
+-- Q8. Find the number of customers in each city.
+
+-- ============================================================
+-- PART B: HAVING PRACTICE
+-- ============================================================
+
+-- Q9. Show departments that have more than 2 employees.
+
+-- Q10. Show departments where the average salary is greater than 70000.
+
+-- Q11. Show customers whose total order amount is greater than 800.
+
+-- Q12. Show cities having more than 1 customer.
+
+-- Q13. Show customers who placed at least 2 orders.
+
+-- Q14. Show product categories whose average price is greater than 100.
+
+-- ============================================================
+-- PART C: INNER JOIN PRACTICE
+-- ============================================================
+
+-- Q15. Display employee name and department name.
+
+-- Q16. Display customer name, order ID, and order amount.
+
+-- Q17. Display order ID, product name, and quantity.
+
+-- Q18. Display customer name and the total amount of each order.
+
+-- Q19. Display employees earning more than 70000 along with their department name.
+
+-- ============================================================
+-- PART D: JOIN + GROUP BY
+-- ============================================================
+
+-- Q20. Find total sales made by each customer.
+
+-- Q21. Find the number of orders placed by each customer.
+
+-- Q22. Find total sales for each city.
+
+-- Q23. Find the average order amount for each city.
+
+-- Q24. Find total quantity sold for each product.
+
+-- Q25. Find total quantity sold for each product category.
+
+-- Q26. Find the department with the highest average salary.
+
+-- Q27. Find customers whose total purchases exceed 700.
+
+-- ============================================================
+-- PART E: LEFT JOIN PRACTICE
+-- ============================================================
+
+-- Q28. Display all customers and their orders, including customers
+--      who have not placed an order.
+
+-- Q29. Display all departments and employee counts, including
+--      departments with zero employees.
+
+-- Q30. Find customers who have never placed an order.
+
+-- ============================================================
+-- PART F: SELF JOIN PRACTICE
+-- ============================================================
+
+-- Q31. Display each employee and their manager's name.
+
+-- Q32. Display employee name, manager name, and department name.
+
+-- ============================================================
+-- PART G: CHALLENGE QUESTIONS
+-- ============================================================
+
+-- Q33. Find the department with the highest total salary.
+
+-- Q34. Find the customer with the highest total purchase amount.
+
+-- Q35. Find the product with the highest total quantity sold.
+
+-- Q36. Find each department's employee count and average salary,
+--      showing only departments with at least 2 employees and
+--      average salary above 60000.
+
+-- Q37. Find each city with total sales above 700, ordered from
+--      highest sales to lowest.
+
+-- Q38. Find the top 3 customers by total purchase amount.
+
+-- Q39. Find each product category's total quantity sold and total
+--      sales value using quantity * product price.
+
+-- Q40. Find the customer who has placed the greatest number of orders.
