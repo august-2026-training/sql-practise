@@ -111,3 +111,87 @@
 --      sales value using quantity * product price.
 
 -- Q40. Find the customer who has placed the greatest number of orders.
+
+Part A — Subqueries
+Q1
+
+Find all employees whose salary is greater than the average salary of all employees.
+
+Q2
+
+Find the employee(s) who have the highest salary.
+
+Q3
+
+Find all employees who work in the IT department.
+
+Q4
+
+Find employees who earn more than the average salary of the IT department.
+
+Q5
+
+Find employees who earn the same salary as John.
+
+Q6
+
+Find employees who work in the same department as John.
+
+Q7
+
+Find employees whose salary is greater than every employee in the HR department.
+
+Q8
+
+Find employees whose salary is greater than at least one employee in the HR department.
+
+Q9
+
+Find departments that have at least one employee.
+
+Q10
+
+Find departments that have no employees.
+
+Q11
+
+Find the second-highest salary in the company.
+
+Q12
+
+Find employees who earn more than their own department's average salary.
+
+Q13
+
+Find the highest-paid employee in each department.
+
+Q14
+
+Find employees who are not managers.
+
+Q15
+
+Find departments whose average salary is greater than the company's overall average salary.
+
+Part B — Set Operations
+Q16
+
+Display all employee names and customer names together using UNION.
+
+Q17
+
+Display all employee names and customer names together using UNION ALL, including duplicates.
+
+Q18
+
+Find names that exist in both the employees and customers tables.
+
+Q19
+
+Find employee names that do not appear in the customers table.
+
+Q20
+
+Display employees from department 10 and department 20 using UNION.
+
+
