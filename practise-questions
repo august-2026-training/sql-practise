@@ -194,4 +194,17 @@ Q20
 
 Display employees from department 10 and department 20 using UNION.
 
+Quick Practice Challenge
 
+Find employees earning less than the average salary.
+Find the employee with the lowest salary.
+Find employees working in the same department as 'Alice'.
+Find employees earning more than 'Bob'.
+Find employees in departments that have more than 3 employees.
+Find the third-highest salary using subqueries.
+Find employees whose salary is greater than all employees in the Finance department.
+Combine employee names and customer names using UNION.
+Combine employee names and customer names using UNION ALL.
+Find departments that don't have any employees using a subquery.
+Find employees who earn more than their department average.
+Find the highest-paid employee in each department.
